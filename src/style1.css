@@ -53,28 +53,28 @@
       }
       @font-face {
         font-family: logo-font;
-        src: url(Resources/fonts/logo_font.ttf);
+        src: url(/Resources/fonts/logo_font.ttf);
       }
       @font-face {
         font-family: h1font;
-        src: url(Resources/fonts/moststylic.ttf);
+        src: url(/Resources/fonts/moststylic.ttf);
       }
       @font-face {
         font-family: h2font;
-        src: url(Resources/fonts/mybest.ttf);
+        src: url(/Resources/fonts/mybest.ttf);
       }
       @font-face {
         font-family: pfont;
-        src: url(Resources/fonts/bestpfont.ttf);
+        src: url(/Resources/fonts/bestpfont.ttf);
       }
       @font-face {
         font-family: nav-font;
-        src: url(Resources/fonts/navsfont.ttf);
+        src: url(/Resources/fonts/navsfont.ttf);
       }
 
       @font-face {
         font-family: logo-font;
-        src: url("Resources/fonts/logo_font.ttf");
+        src: url("/Resources/fonts/logo_font.ttf");
       }
       .h22 {
         color: rgb(0, 136, 255);
