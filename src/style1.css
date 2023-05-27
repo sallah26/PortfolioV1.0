@@ -1,0 +1,366 @@
+.fir-page {
+  width: 110%;
+  height: 800px;
+  top: 0;
+  background-color: #252525;
+  position: relative;
+  margin-top: -47px;
+  margin-left: -8px;
+}
+.img-wave1 {
+  position: absolute;
+  top: 570px;
+}
+
+.container {
+  position: absolute;
+  display: flex;
+  margin-top: -780px;
+  margin-left: 68%;
+}
+/* .nav-container {
+  width: 100%;
+  height: 100px;
+  padding: auto 8px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding: 2px 20px;
+} */
+/* .nav-link-container {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  gap: 16px;
+  justify-content: end;
+  align-items: center;
+  margin-left: 200px;
+} */
+/* .nav-link-container a {
+  padding: -10px;
+} */
+
+/* .hero-section {
+  background: linear-gradient(#2c052f04, #540e94);
+} */
+/* .hero-text {
+  min-height: 30vh;
+  margin-top: 150px;
+} */
+.container a {
+  color: aliceblue;
+  text-decoration: none;
+  color: rgb(189, 255, 252);
+  font-size: 22px;
+  font-family: nav-font;
+  letter-spacing: 0.5px;
+  padding: 20px;
+  cursor: pointer;
+}
+.container a:hover {
+  color: blue;
+  transform: skew(25deg, 5deg);
+  transform: scale(0.9);
+}
+
+@font-face {
+  font-family: nav-font;
+  src: url(Resources/fonts/navsfont.ttf);
+}
+
+@font-face {
+  font-family: logo-font;
+  src: url('Resources/fonts/logo_font.ttf');
+}
+
+.logo1 {
+  color: rgb(106, 141, 171);
+  font-family: logo-font;
+  font-size: 65px;
+}
+.hs {
+  text-align: center;
+  margin-top: 100px;
+  margin-left: -140px;
+}
+
+.pfp {
+  height: 300px;
+  width: 300px;
+  border-radius: 100%;
+  margin-left: 320px;
+  margin-top: -140px;
+  z-index: 3;
+}
+.pfp-img {
+  margin-left: -100px;
+  margin-top: 0px;
+}
+@font-face {
+  font-family: h1font;
+  src: url(Resources/fonts/moststylic.ttf);
+}
+@font-face {
+  font-family: h2font;
+  src: url(Resources/fonts/mybest.ttf);
+}
+@font-face {
+  font-family: pfont;
+  src: url(Resources/fonts/bestpfont.ttf);
+}
+.h22 {
+  color: rgb(0, 136, 255);
+  font-family: h1font;
+  font-size: 40px;
+}
+.h11 {
+  color: rgb(0, 97, 254);
+  font-family: h2font;
+  font-size: 60px;
+  margin-top: -70px;
+}
+.txts {
+  color: rgb(189, 255, 252);
+  margin-left: 560px;
+  margin-top: -260px;
+}
+p {
+  font-family: h2font;
+  font-size: 25px;
+}
+.sec-page {
+  position: relative;
+  height: fit-content;
+  width: 120%;
+  right: -50px;
+  background-color: #252525;
+  margin-top: -40px;
+  margin-left: -60px;
+}
+.sec-header {
+  width: 410px;
+  height: 120px;
+  background-color: rgb(52, 47, 47);
+  margin-left: 32%;
+  border-radius: 100px;
+  border-color: rgb(127, 142, 142);
+  border-top: 20px;
+  border-width: 40px;
+}
+.h111 {
+  font-size: 60px;
+  font-family: h2font;
+  color: rgb(0, 97, 254);
+  margin-left: 93px;
+  padding-top: 0px;
+}
+.sec-txts {
+  position: relative;
+  margin-left: 170px;
+  margin-top: 220px;
+  color: rgb(189, 255, 252);
+}
+.sec-txts h2 {
+  position: absolute;
+  color: rgb(0, 97, 254);
+  font-family: h2font;
+  font-size: 40px;
+  margin-top: -70px;
+}
+.sec-imagee {
+  height: 600px;
+  margin-left: 790px;
+  border-radius: 100%;
+  margin-top: -439px;
+}
+.thr-elmnt {
+  position: absolute;
+  width: 100%;
+  height: 800px;
+  background-color: #252525;
+  margin-top: 00px;
+}
+.thr-elmnt h2 {
+  position: absolute;
+  font-size: 40px;
+  font-family: h2font;
+  color: rgb(0, 97, 254);
+  margin-top: 30px;
+}
+.thr-img {
+  height: 600px;
+  margin-top: 00px;
+  margin-left: 100px;
+}
+.thr-txt {
+  margin-top: -590px;
+  margin-left: 750px;
+  color: rgb(189, 255, 252);
+}
+.for-elmnt {
+  position: absolute;
+  width: 100%;
+  height: 500px;
+  background-color: #252525;
+  margin-top: 650px;
+}
+.for-txt {
+  margin-top: 50px;
+  margin-left: 150px;
+  color: rgb(189, 255, 252);
+}
+.for-img {
+  height: 600px;
+  margin-left: 550px;
+  margin-top: -470px;
+}
+.for-txt h2 {
+  font-size: 40px;
+  font-family: h2font;
+  color: rgb(0, 97, 254);
+}
+.for-txt p {
+  font-size: 23px;
+}
+.fif-page {
+  width: 100%;
+  height: 600px;
+  background-color: #252525;
+  margin-top: 1200px;
+}
+.fif-txt {
+  margin-left: 700px;
+  margin-top: -130px;
+}
+.fif-img {
+  height: 600px;
+  margin-top: -400px;
+  margin-left: 50px;
+}
+
+.fif-txt h2 {
+  font-size: 45px;
+  font-family: h2font;
+  color: rgb(0, 97, 254);
+}
+.fif-txt p {
+  font-size: 23px;
+  color: rgb(189, 255, 252);
+}
+.closing {
+  width: 100%;
+  height: 503px;
+  background-color: #252525;
+  margin-left: 00px;
+}
+.last-header {
+  width: 410px;
+  height: 130px;
+  background-color: rgb(52, 47, 47);
+  margin-left: 35%;
+  border-radius: 100px;
+  border-color: rgb(127, 142, 142);
+  border-top: 20px;
+  border-width: 40px;
+}
+.closing h2 {
+  padding: 28px;
+
+  font-size: 63px;
+  font-family: h2font;
+  color: rgb(0, 97, 254);
+}
+.last-p {
+  font-size: 23px;
+  color: rgb(189, 255, 252);
+  position: relative;
+  margin-top: 25px;
+  margin-left: 360px;
+}
+.last-pp {
+  font-size: 23px;
+  color: rgb(189, 255, 252);
+  position: relative;
+  margin-top: -10px;
+  margin-left: 420px;
+}
+.footer {
+  width: 100%;
+  height: 900px;
+  background-color: #252525;
+}
+.foot-elemnts {
+  position: relative;
+  margin-left: 600px;
+  margin-top: 140px;
+}
+.foot-elemnts img {
+  padding: 7px;
+  height: 50px;
+}
+.foot-elemnts img:hover {
+  transform: scale(1.3);
+  color: transparent;
+}
+.icon3 {
+  border-radius: 100%;
+}
+.last-wave {
+  position: absolute;
+  margin-top: -20px;
+}
+.clos-ps {
+  position: absolute;
+  height: 100px;
+  width: 330px;
+  margin-top: 10px;
+  margin-left: 595px;
+  background-color: transparent;
+  z-index: 2;
+}
+.clos-p {
+  color: rgb(199, 203, 207);
+  padding-top: 40px;
+}
+/* .icon1 {
+  height: 10px;
+  width: 10px;
+} */
+/* }
+.foot-elemnts a:hover {
+  color: brown;
+  transition: all;
+  transition-duration: 3s;
+}
+.end {
+  height: 300px;
+  width: 100%;
+  background-color: rgb(46, 63, 64);
+}
+.trin {
+  width: 300px;
+  height: 132px;
+  background-color: black;
+  margin-top: -540px;
+  margin-left: 230px;
+  cursor: pointer;
+  transition: width 0.6s, height 0.7s;
+}
+.trin:hover {
+  width: 400px;
+  height: 172px;
+}
+.trin:after {
+  content: ;
+}
+.trin:hover:after {
+  content: "text changed";
+} */
+/*
+.sec-txt {
+  margin-left: 670px;
+  margin-top: 500px;
+  color: aliceblue;
+}
+*/
