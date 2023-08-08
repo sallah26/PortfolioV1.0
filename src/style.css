@@ -1121,7 +1121,7 @@ font-size:65px;
 /* LAst page[Closing-page] Responsivness */
 @media screen  and (max-width: 510px){
                 .closing {
-                    width: 500px;
+                    width: 570px;
                     height: 503px;
                     background-color: rgb(255, 255, 255);
                     margin: 0px 0 0 -10px;
