@@ -172,6 +172,7 @@ font-size:65px;
                 span {
                     color: #d148dd;
                 }
+    
         
 }
 
@@ -1120,7 +1121,7 @@ font-size:65px;
 /* LAst page[Closing-page] Responsivness */
 @media screen  and (max-width: 510px){
                 .closing {
-                    width: auto;
+                    width: 500px;
                     height: 503px;
                     background-color: rgb(255, 255, 255);
                     margin: 0px 0 0 -10px;
