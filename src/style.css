@@ -122,7 +122,7 @@ font-size:65px;
        } 
         .container {
             position: absolute;
-            margin-left: 50%;
+            margin-left: 55%;
             margin: -975px 0 0 150px;
             display: flex;
             flex-direction: row;
@@ -139,7 +139,7 @@ font-size:65px;
             border-radius: 110px 0;
             position: absolute;
             /* border-radius: 100%; */
-            margin-left: 5px;
+            margin-left: 40px;
             margin-top: -10px;
             z-index: 3;
         }
