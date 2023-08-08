@@ -139,7 +139,7 @@ font-size:65px;
             border-radius: 110px 0;
             position: absolute;
             /* border-radius: 100%; */
-            margin-left: 50px;
+            margin-left: 5px;
             margin-top: -10px;
             z-index: 3;
         }
@@ -147,14 +147,14 @@ font-size:65px;
             
             font-size: 36px;
             position: relative;
-            margin-left: -130px;
+            margin-left: -30px;
             margin-top: -23px;
         }
 
         .h11 {
             font-size: 40px;
             margin-top: -40px;
-            margin-left: 50px;
+            margin-left: 90px;
         }
         .txts {
             color: rgb(189, 255, 252);
@@ -409,7 +409,7 @@ font-size:65px;
                 width: 370px;
                 height: 100px;
                 position: absolute;
-                margin: 60px 0 0 66px;
+                margin: 60px 0 0 6px;
                 text-align: center;
             }
             .h111 {
@@ -419,10 +419,10 @@ font-size:65px;
             .sec-imagee {
                 position: absolute;
                 height: 400px;
-                margin: 160px 0 0 -20px;
+                margin: 160px 0 0 -90px;
             }
             .sec-txts{
-                width: 440px;
+                width: 420px;
                 height: 500px;
                 position: absolute;
                 margin: 600px 0 0 25px;
@@ -630,10 +630,10 @@ font-size:65px;
             .thr-elmnt img {
                 height: 420px;
                 width: 420px;
-                margin: 40px 0 0 50px;
+                margin: 40px 0 0 4px;
             }
             .thr-txt {
-                width: 440px;
+                width: 410px;
                 height: 500px;
                 color: rgb(189, 255, 252);
                 text-align: center;
@@ -764,7 +764,7 @@ font-size:65px;
 @media screen and (max-width: 510px){
                 .for-elmnt {
                     height: 750px;
-                    width: auto;
+                    width: 490px;
                     margin: -20px 0 0 -8px;
                     background-color: #ffffff;
                 }
@@ -1122,7 +1122,7 @@ font-size:65px;
                 .last-header {
                     width: 360px;
                     height: 100px;
-                    margin: 50px 0 0 70px;
+                    margin: 50px 0 0 7px;
                     
                 }
                 .closing h2 {
@@ -1151,9 +1151,9 @@ font-size:65px;
                 .clos-p {
                     color: rgb(255, 255, 255);
                     padding-top: 40px;
-                    font-size: 15px;
+                    font-size: 12px;
                     position: absolute;
-                    margin: 76px 0 0 -550px; 
+                    margin: 76px 0 0 -590px; 
                 }
                 .last-div{
                     width: 500px;
