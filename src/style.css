@@ -122,8 +122,8 @@ font-size:65px;
        } 
         .container {
             position: absolute;
-            margin-left: 55%;
-            margin: -975px 0 0 150px;
+            margin-left: 59%;
+            margin: -985px 0 0 150px;
             display: flex;
             flex-direction: row;
         }
