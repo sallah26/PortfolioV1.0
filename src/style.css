@@ -51,6 +51,9 @@ font-size:65px;
      margin-top: -250px;
      z-index: 3;
 }
+.pfp img:hover{
+transform: matrix(0, 1, 1, 0, 0, 0);
+}
     @font-face {
             font-family: logo-font;
             src: url(../Resources/fonts/logo_font.ttf);
@@ -172,6 +175,9 @@ font-size:65px;
                 span {
                     color: #d148dd;
                 }
+    .pfp img:hover{
+transform: matrix(0, 1, 1, 0, 0, 0);
+}
     
         
 }
@@ -185,6 +191,9 @@ font-size:65px;
                 margin-top: -47px;
                 margin-left: -8px;
             }
+    .pfp img:hover{
+transform: matrix(0, 1, 1, 0, 0, 0);
+}
         
             .logo1 {
                 color: rgb(106, 141, 171);
@@ -263,6 +272,9 @@ font-size:65px;
                         font-family: logo-font;
                         font-size: 65px;
                     }
+    .pfp img:hover{
+transform: matrix(0, 1, 1, 0, 0, 0);
+}
                     
                     .container {
                         position: absolute;
